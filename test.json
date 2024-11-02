@@ -1,0 +1,7 @@
+   // Assume the JSON structure is:
+                       {
+                          "numberValue": 123,
+                          "booleanValue": true,
+                        "stringJava": "Sample Java String",
+                          "stringXml": "Sample XML String"
+                        }
