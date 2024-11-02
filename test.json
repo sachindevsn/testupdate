@@ -2,6 +2,6 @@
                        {
                           "numberValue": 3,
                           "booleanValue": true,
-                        "description": "Update avilable",
-                          "updateUrl": "https://sachinsoft.surge.sh/"
+                        "stringJava": "Update avilable",
+                          "stringXml": "https://sachinsoft.surge.sh/"
                         }
