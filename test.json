@@ -1,7 +1,7 @@
    // Assume the JSON structure is:
                        {
-                          "numberValue": 123,
+                          "numberValue": 3,
                           "booleanValue": true,
-                        "stringJava": "Sample Java String",
-                          "stringXml": "Sample XML String"
+                        "discription": "Update avilable",
+                          "updateUrl": "https://sachinsoft.surge.sh/"
                         }
